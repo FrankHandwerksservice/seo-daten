@@ -1,0 +1,5441 @@
+{
+ "site": "sc-domain:dein-trocknungsteam.de",
+ "exported_at": "2026-10-16T05:00:15",
+ "period": {
+  "start": "2026-10-07",
+  "end": "2026-10-13"
+ },
+ "previous_period": {
+  "start": "2026-09-30",
+  "end": "2026-10-06"
+ },
+ "totals": {
+  "clicks": 10,
+  "impressions": 1266,
+  "ctr": 0.0079,
+  "position": 23.03
+ },
+ "totals_previous": {
+  "clicks": 14,
+  "impressions": 1044,
+  "ctr": 0.0134,
+  "position": 23.48
+ },
+ "daily_28d": [
+  {
+   "date": "2026-09-16",
+   "clicks": 0,
+   "impressions": 214,
+   "ctr": 0,
+   "position": 25.48
+  },
+  {
+   "date": "2026-09-17",
+   "clicks": 0,
+   "impressions": 177,
+   "ctr": 0,
+   "position": 17.94
+  },
+  {
+   "date": "2026-09-18",
+   "clicks": 0,
+   "impressions": 156,
+   "ctr": 0,
+   "position": 19.49
+  },
+  {
+   "date": "2026-09-19",
+   "clicks": 0,
+   "impressions": 142,
+   "ctr": 0,
+   "position": 18.89
+  },
+  {
+   "date": "2026-09-20",
+   "clicks": 0,
+   "impressions": 131,
+   "ctr": 0,
+   "position": 25.2
+  },
+  {
+   "date": "2026-09-21",
+   "clicks": 1,
+   "impressions": 182,
+   "ctr": 0.0055,
+   "position": 18.13
+  },
+  {
+   "date": "2026-09-22",
+   "clicks": 3,
+   "impressions": 204,
+   "ctr": 0.0147,
+   "position": 20.82
+  },
+  {
+   "date": "2026-09-23",
+   "clicks": 1,
+   "impressions": 178,
+   "ctr": 0.0056,
+   "position": 16.98
+  },
+  {
+   "date": "2026-09-24",
+   "clicks": 0,
+   "impressions": 167,
+   "ctr": 0,
+   "position": 13.29
+  },
+  {
+   "date": "2026-09-25",
+   "clicks": 0,
+   "impressions": 107,
+   "ctr": 0,
+   "position": 18.36
+  },
+  {
+   "date": "2026-09-26",
+   "clicks": 2,
+   "impressions": 88,
+   "ctr": 0.0227,
+   "position": 15.6
+  },
+  {
+   "date": "2026-09-27",
+   "clicks": 2,
+   "impressions": 99,
+   "ctr": 0.0202,
+   "position": 22.69
+  },
+  {
+   "date": "2026-09-28",
+   "clicks": 0,
+   "impressions": 113,
+   "ctr": 0,
+   "position": 15.88
+  },
+  {
+   "date": "2026-09-29",
+   "clicks": 3,
+   "impressions": 127,
+   "ctr": 0.0236,
+   "position": 14.25
+  },
+  {
+   "date": "2026-09-30",
+   "clicks": 3,
+   "impressions": 102,
+   "ctr": 0.0294,
+   "position": 17.09
+  },
+  {
+   "date": "2026-10-01",
+   "clicks": 4,
+   "impressions": 137,
+   "ctr": 0.0292,
+   "position": 21.68
+  },
+  {
+   "date": "2026-10-02",
+   "clicks": 0,
+   "impressions": 131,
+   "ctr": 0,
+   "position": 24.24
+  },
+  {
+   "date": "2026-10-03",
+   "clicks": 1,
+   "impressions": 105,
+   "ctr": 0.0095,
+   "position": 24.47
+  },
+  {
+   "date": "2026-10-04",
+   "clicks": 2,
+   "impressions": 126,
+   "ctr": 0.0159,
+   "position": 26.42
+  },
+  {
+   "date": "2026-10-05",
+   "clicks": 4,
+   "impressions": 212,
+   "ctr": 0.0189,
+   "position": 23.54
+  },
+  {
+   "date": "2026-10-06",
+   "clicks": 0,
+   "impressions": 231,
+   "ctr": 0,
+   "position": 24.81
+  },
+  {
+   "date": "2026-10-07",
+   "clicks": 1,
+   "impressions": 178,
+   "ctr": 0.0056,
+   "position": 22.11
+  },
+  {
+   "date": "2026-10-08",
+   "clicks": 3,
+   "impressions": 191,
+   "ctr": 0.0157,
+   "position": 16.16
+  },
+  {
+   "date": "2026-10-09",
+   "clicks": 1,
+   "impressions": 128,
+   "ctr": 0.0078,
+   "position": 16.45
+  },
+  {
+   "date": "2026-10-10",
+   "clicks": 1,
+   "impressions": 102,
+   "ctr": 0.0098,
+   "position": 26.04
+  },
+  {
+   "date": "2026-10-11",
+   "clicks": 0,
+   "impressions": 191,
+   "ctr": 0,
+   "position": 27.68
+  },
+  {
+   "date": "2026-10-12",
+   "clicks": 2,
+   "impressions": 202,
+   "ctr": 0.0099,
+   "position": 19.77
+  },
+  {
+   "date": "2026-10-13",
+   "clicks": 2,
+   "impressions": 274,
+   "ctr": 0.0073,
+   "position": 29.56
+  }
+ ],
+ "pages": [
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "clicks": 4,
+   "impressions": 173,
+   "ctr": 0.0231,
+   "position": 5.61
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "clicks": 3,
+   "impressions": 133,
+   "ctr": 0.0226,
+   "position": 22.14
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "clicks": 1,
+   "impressions": 38,
+   "ctr": 0.0263,
+   "position": 26.71
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-heinsberg/",
+   "clicks": 1,
+   "impressions": 22,
+   "ctr": 0.0455,
+   "position": 13.32
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "clicks": 1,
+   "impressions": 295,
+   "ctr": 0.0034,
+   "position": 11.66
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "clicks": 0,
+   "impressions": 44,
+   "ctr": 0,
+   "position": 55.64
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/blog/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 61.62
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/dusseldorf/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/erftstadt/",
+   "clicks": 0,
+   "impressions": 19,
+   "ctr": 0,
+   "position": 9.32
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "clicks": 0,
+   "impressions": 54,
+   "ctr": 0,
+   "position": 58.59
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "clicks": 0,
+   "impressions": 136,
+   "ctr": 0,
+   "position": 57.6
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/impressum/",
+   "clicks": 0,
+   "impressions": 28,
+   "ctr": 0,
+   "position": 6.71
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/krefeld/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "clicks": 0,
+   "impressions": 28,
+   "ctr": 0,
+   "position": 25.61
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-bei-wasserschaden-leckagen-schnell-finden/",
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 9.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-fussbodenheizung/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 7.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "clicks": 0,
+   "impressions": 54,
+   "ctr": 0,
+   "position": 37.17
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "clicks": 0,
+   "impressions": 102,
+   "ctr": 0,
+   "position": 19.22
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/niederzier/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 7.8
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "clicks": 0,
+   "impressions": 19,
+   "ctr": 0,
+   "position": 11.42
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/schwalmtal/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-sanierung-aus-einer-hand-vom-leck-bis-zum-neuen-anstrich/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-unter-dem-estrich/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 18.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "clicks": 0,
+   "impressions": 83,
+   "ctr": 0,
+   "position": 18.8
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-sanierung-nach-einem-wasserschaden/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 12.12
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "clicks": 0,
+   "impressions": 35,
+   "ctr": 0,
+   "position": 47.86
+  }
+ ],
+ "pages_previous": [
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "clicks": 5,
+   "impressions": 239,
+   "ctr": 0.0209,
+   "position": 12.98
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "clicks": 3,
+   "impressions": 104,
+   "ctr": 0.0288,
+   "position": 23.88
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "clicks": 2,
+   "impressions": 116,
+   "ctr": 0.0172,
+   "position": 6.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/impressum/",
+   "clicks": 1,
+   "impressions": 52,
+   "ctr": 0.0192,
+   "position": 6.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "clicks": 1,
+   "impressions": 76,
+   "ctr": 0.0132,
+   "position": 19.62
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/schwalmtal/",
+   "clicks": 1,
+   "impressions": 9,
+   "ctr": 0.1111,
+   "position": 7.11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-sanierung-nach-einem-wasserschaden/",
+   "clicks": 1,
+   "impressions": 126,
+   "ctr": 0.0079,
+   "position": 30.7
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "clicks": 0,
+   "impressions": 68,
+   "ctr": 0,
+   "position": 51.31
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/blog/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/dusseldorf/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 5.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/effiziente-bautrocknung-warum-der-einfache-ventilator-nicht-ausreicht/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 26
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/erftstadt/",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 14.79
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "clicks": 0,
+   "impressions": 39,
+   "ctr": 0,
+   "position": 60.26
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/krefeld/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 12
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "clicks": 0,
+   "impressions": 22,
+   "ctr": 0,
+   "position": 14.27
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-bei-wasserschaden-leckagen-schnell-finden/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 15.9
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-fussbodenheizung/",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 8.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "clicks": 0,
+   "impressions": 37,
+   "ctr": 0,
+   "position": 13.76
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-sanierung-aus-einer-hand-vom-leck-bis-zum-neuen-anstrich/",
+   "clicks": 0,
+   "impressions": 46,
+   "ctr": 0,
+   "position": 51.04
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-unter-dem-estrich/",
+   "clicks": 0,
+   "impressions": 105,
+   "ctr": 0,
+   "position": 13.46
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "clicks": 0,
+   "impressions": 44,
+   "ctr": 0,
+   "position": 49.77
+  }
+ ],
+ "queries": [
+  {
+   "query": "estrichdämmschichttrocknung",
+   "clicks": 1,
+   "impressions": 8,
+   "ctr": 0.125,
+   "position": 7.88
+  },
+  {
+   "query": "leckortungsfirma",
+   "clicks": 1,
+   "impressions": 7,
+   "ctr": 0.1429,
+   "position": 3.57
+  },
+  {
+   "query": "abdichtung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "ablauf einer wassersschadensanierung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 18.33
+  },
+  {
+   "query": "axa hausratversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 62
+  },
+  {
+   "query": "bauleistungsversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 18
+  },
+  {
+   "query": "bautentrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "bautrockner",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "bautrocknung",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 14.08
+  },
+  {
+   "query": "bautrocknung brühl",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 64.5
+  },
+  {
+   "query": "bautrocknung duisburg",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 71
+  },
+  {
+   "query": "bautrocknung erftstadt",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "query": "bautrocknung kastellaun",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 83.67
+  },
+  {
+   "query": "bautrocknung krefeld",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "query": "bautrocknung leverkusen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "bautrocknung limburg",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 46.38
+  },
+  {
+   "query": "bautrocknung neuss",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "bautrocknung rheinböllen",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 86.5
+  },
+  {
+   "query": "bautrocknung simmern",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "query": "bautrocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "bauwerkstrocknung",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 14.8
+  },
+  {
+   "query": "beseitigung von wasserschäden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36.5
+  },
+  {
+   "query": "boden verlegen nach wasserschaden saarland",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 86.71
+  },
+  {
+   "query": "brand und wasserschadensanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 26
+  },
+  {
+   "query": "brandschaden sanierung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "dokumentenrettung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "query": "dämmschichttrocknung",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 63.33
+  },
+  {
+   "query": "dämmschichttrocknung selber machen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "query": "entkalkungsservice neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "query": "entschädigung bei wasserschaden im eigenheim",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "query": "estrich dämmschicht",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "query": "estrich dämmschicht trocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "query": "estrichaustrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 37
+  },
+  {
+   "query": "feuchtigkeitsschäden sanierung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2.5
+  },
+  {
+   "query": "frank handwerksservice gmbh",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 5.64
+  },
+  {
+   "query": "gebaeudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "query": "gebäudesanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "gebäudetrocknung",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 50.08
+  },
+  {
+   "query": "gebäudeversicherung leitungswasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 67
+  },
+  {
+   "query": "gebäudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 71.71
+  },
+  {
+   "query": "gefrierschrank defekt hausratversicherung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 46.33
+  },
+  {
+   "query": "handwerker neuss",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 32
+  },
+  {
+   "query": "handwerksteam",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "hausrat wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 62
+  },
+  {
+   "query": "hausratversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "hausratversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 64.4
+  },
+  {
+   "query": "hausratversicherung wasserschaden mietwohnung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 64
+  },
+  {
+   "query": "hausratversicherung wasserschäden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 66
+  },
+  {
+   "query": "hausversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "query": "holzschutz und bautrocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "kanalsanierung schwalmtal",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "query": "kleiner wasserschaden trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "komplettsanierung aus einer hand",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "kosten für leckortung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "query": "kosten leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "kosten leckortung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "query": "kosten trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "kosten trocknungsgeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 58
+  },
+  {
+   "query": "kosten wasserschaden trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "leckage firma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "query": "leckage firma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "leckage wasser",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 13.5
+  },
+  {
+   "query": "leckageortung",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 14.5
+  },
+  {
+   "query": "leckageortung castrop-rauxel",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 18.5
+  },
+  {
+   "query": "leckageortung dreieich",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 19.8
+  },
+  {
+   "query": "leckageortung duisburg",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 27.67
+  },
+  {
+   "query": "leckageortung düsseldorf",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 17.6
+  },
+  {
+   "query": "leckageortung firma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 29
+  },
+  {
+   "query": "leckageortung firmen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "leckageortung in der nähe",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 10.29
+  },
+  {
+   "query": "leckageortung kastellaun",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 35
+  },
+  {
+   "query": "leckageortung kosten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 85.5
+  },
+  {
+   "query": "leckageortung nrw",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 27
+  },
+  {
+   "query": "leckageortung rheinböllen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 18.5
+  },
+  {
+   "query": "leckorter in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "leckorter kosten",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 63
+  },
+  {
+   "query": "leckortung",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 12.43
+  },
+  {
+   "query": "leckortung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "query": "leckortung bruchköbel",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "query": "leckortung duisburg",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 20.5
+  },
+  {
+   "query": "leckortung düsseldorf",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 13.78
+  },
+  {
+   "query": "leckortung emmerich",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "query": "leckortung erftstadt",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 7.5
+  },
+  {
+   "query": "leckortung erlangen",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "leckortung firma",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "query": "leckortung in der nähe",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10.5
+  },
+  {
+   "query": "leckortung in meiner nähe",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "leckortung kappeln",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "query": "leckortung kastellaun",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "query": "leckortung kosten",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 48.5
+  },
+  {
+   "query": "leckortung köln",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "leckortung mönchengladbach",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "leckortung nrw",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 19.11
+  },
+  {
+   "query": "leckortung pool kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "leckortung preis",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 59
+  },
+  {
+   "query": "leckortung preise",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "leckortung rheinböllen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "query": "leckortung wasserleitung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 61
+  },
+  {
+   "query": "leckortung wasserschaden düsseldorf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 33
+  },
+  {
+   "query": "leckortung wasserschaden kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "leckortung wasserschaden vorgehensweise",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 35
+  },
+  {
+   "query": "leckortung zahlt versicherung",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 44.5
+  },
+  {
+   "query": "leckortungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 3.75
+  },
+  {
+   "query": "leckortungsfirma kosten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "leitungswasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "query": "leitungswasserschaden versicherung zahlt nicht",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 73
+  },
+  {
+   "query": "leitungswasserschaden wohngebäudeversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 87
+  },
+  {
+   "query": "luftdichtigkeitsprüfung geilenkirchen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10.5
+  },
+  {
+   "query": "mauertrockenlegung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "mauertrockenlegung bautrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "query": "mauerwerk trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "pool leckortung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "preise leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "professionelle trocknung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "renovierung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "query": "rohrbruch lokalisieren lassen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "rohrbruch was tun",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "query": "rohrverstopfung hausratversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "sanierung feuchtigkeitsschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "query": "sanierung nach wasserschaden neunkirchen",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 81.25
+  },
+  {
+   "query": "sanierungsberatung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "schadensanierung sofortmaßnahmen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "schimmel entfernen schwalmtal",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 22
+  },
+  {
+   "query": "schimmel neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "query": "schimmelsanierung neuss",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "query": "schimmelsanierung schwalmtal",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "query": "schornsteinsanierung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "tankreinigung kreis mettmann",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "teppichreinigung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "query": "trockenbau heinsberg",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "query": "trockenbau mettmann",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "trockenbau neuss",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "query": "trockenheld gmbh",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "query": "trockenlegung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 33
+  },
+  {
+   "query": "trocknung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "trocknung bergisch gladbach",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 25.5
+  },
+  {
+   "query": "trocknung düsseldorf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 33.5
+  },
+  {
+   "query": "trocknung für kommunen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "trocknung nach rohrbruch",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 5.2
+  },
+  {
+   "query": "trocknung rheinböllen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "query": "trocknung von wasserschäden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 73
+  },
+  {
+   "query": "trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 15.75
+  },
+  {
+   "query": "trocknung wasserschaden kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "trocknungsfirma",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 75.33
+  },
+  {
+   "query": "trocknungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 30.17
+  },
+  {
+   "query": "trocknungsgeräte",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 15
+  },
+  {
+   "query": "trocknungsgeräte mieten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "trocknungsgeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "versicherung leitungswasser",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 96
+  },
+  {
+   "query": "versicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "query": "versicherung wasserschaden sanierung ablauf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 74.5
+  },
+  {
+   "query": "wand feucht wer zahlt gutachten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "query": "warmwasserspeicher undicht versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "query": "was kostet eine leckortung",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 54.2
+  },
+  {
+   "query": "was kostet leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "was passiert, wenn ein rohr in der wand bricht und das ganze haus unter wasser steht? welche tarife decken solche teuren leitungswasserschäden am zuverlässigsten ab?",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 5.75
+  },
+  {
+   "query": "was sollte ich sofort tun, wenn ich einen wasserschaden in der wohnung entdeckt habe?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "query": "was tun bei wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.67
+  },
+  {
+   "query": "was tun bei wasserschaden im haus",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 38.5
+  },
+  {
+   "query": "was zahlt die gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "was zahlt die hausratversicherung bei wasserschaden?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "was zahlt die versicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 65
+  },
+  {
+   "query": "was zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "query": "was zahlt versicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 75.5
+  },
+  {
+   "query": "was zahlt versicherung bei wasserschaden im bad",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 79
+  },
+  {
+   "query": "wasserschade versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "query": "wasserschaden",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 17.08
+  },
+  {
+   "query": "wasserschaden an der decke wer zahlt",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 74
+  },
+  {
+   "query": "wasserschaden beheben",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "query": "wasserschaden beseitigung",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 19.5
+  },
+  {
+   "query": "wasserschaden demontage",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 17
+  },
+  {
+   "query": "wasserschaden dormagen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschaden estrich",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "wasserschaden gebäudeversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 76.5
+  },
+  {
+   "query": "wasserschaden haftpflicht",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 90.5
+  },
+  {
+   "query": "wasserschaden haftpflicht oder hausrat",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "query": "wasserschaden haftpflichtversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "query": "wasserschaden haus versicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 89.5
+  },
+  {
+   "query": "wasserschaden hilfe",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 26.5
+  },
+  {
+   "query": "wasserschaden im haus versicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 90
+  },
+  {
+   "query": "wasserschaden im haus welche versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "query": "wasserschaden korschenbroich",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschaden kosten für trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 53
+  },
+  {
+   "query": "wasserschaden kosten trocknung",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 45.36
+  },
+  {
+   "query": "wasserschaden laminat hausratversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 67.5
+  },
+  {
+   "query": "wasserschaden laminat wieviel zahlt versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "wasserschaden leckortung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "wasserschaden mietwohnung keine hausratversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 74
+  },
+  {
+   "query": "wasserschaden neuss",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 2.44
+  },
+  {
+   "query": "wasserschaden notdienst",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschaden ortungsdienst",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschaden reparatur",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "query": "wasserschaden sanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschaden service herkenrath",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 67.5
+  },
+  {
+   "query": "wasserschaden trocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2.5
+  },
+  {
+   "query": "wasserschaden trocknung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "wasserschaden versicherung",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 77.14
+  },
+  {
+   "query": "wasserschaden versicherung entschädigung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "query": "wasserschaden versicherung haus",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "wasserschaden versicherung was wird zahlt",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 72.5
+  },
+  {
+   "query": "wasserschaden was tun",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 22.5
+  },
+  {
+   "query": "wasserschaden was zahlt die versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "wasserschaden was zahlt versicherung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "query": "wasserschaden weilerswist",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "wasserschaden welche versicherung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 54.67
+  },
+  {
+   "query": "wasserschaden wer zahlt",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 79.4
+  },
+  {
+   "query": "wasserschaden wer zahlt renovierung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "query": "wasserschaden wohngebäudeversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 94
+  },
+  {
+   "query": "wasserschadenbeseitigung",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 17.36
+  },
+  {
+   "query": "wasserschadenbeseitigung leverkusen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 54.67
+  },
+  {
+   "query": "wasserschadensanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschadensanierung erftstadt",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 15.75
+  },
+  {
+   "query": "wasserschadensanierung in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 79
+  },
+  {
+   "query": "wasserschadensanierung langenfeld",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "query": "wasserschadensanierung neuss",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 2.17
+  },
+  {
+   "query": "wasserschadensanierung rheinböllen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 52.33
+  },
+  {
+   "query": "wasserschäden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "wasserschäden an gebäuden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "query": "wasserschäden trocknen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "wasserschäden versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 82
+  },
+  {
+   "query": "water damage restoration near me",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "water damage restoration service",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "query": "welche probleme treten bei hausrat- oder gebäudeschäden häufig auf?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "query": "wer zahlt die kosten für eine leckortung?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "wer zahlt sanierung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "query": "wer zahlt strom für trockengeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "wer zahlt wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
+  },
+  {
+   "query": "wie dokumentiere ich einen leitungswasserschaden korrekt?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "wiederherstellung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "query": "wohngebäudeversicherung leitungswasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "query": "wohngebäudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 87.25
+  },
+  {
+   "query": "zahlt die gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "query": "zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 66
+  }
+ ],
+ "queries_previous": [
+  {
+   "query": "100 liter wasser unter estrich",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "query": "abdichtung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "abrechnung nach rückbau wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 49.25
+  },
+  {
+   "query": "bautrockner fenster auf oder zu",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "query": "bautrockner kaufen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "bautrocknung",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 19.67
+  },
+  {
+   "query": "bautrocknung bergisch gladbach",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "query": "bautrocknung berlin",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "query": "bautrocknung brühl",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 61.33
+  },
+  {
+   "query": "bautrocknung erftstadt",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 4.67
+  },
+  {
+   "query": "bautrocknung grünberg gmbh",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "bautrocknung kastellaun",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 79.73
+  },
+  {
+   "query": "bautrocknung kosten pro tag",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "bautrocknung limburg",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 44.5
+  },
+  {
+   "query": "bautrocknung mönchengladbach",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "bautrocknung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "query": "bautrocknung rheinböllen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 90
+  },
+  {
+   "query": "bautrocknung simmern",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 49.62
+  },
+  {
+   "query": "beseitigung feuchtigkeit",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "boden verlegen nach wasserschaden saarland",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 75.9
+  },
+  {
+   "query": "brandsanierungsfirma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "brandschadensanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 21
+  },
+  {
+   "query": "estrich wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36
+  },
+  {
+   "query": "flachdach trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "fliesenarbeiten nach wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 64.33
+  },
+  {
+   "query": "frank handwerksservice gmbh",
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 6.11
+  },
+  {
+   "query": "gebaeudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 73.5
+  },
+  {
+   "query": "gebäudetrocknung",
+   "clicks": 0,
+   "impressions": 17,
+   "ctr": 0,
+   "position": 63.76
+  },
+  {
+   "query": "gebäudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 70.3
+  },
+  {
+   "query": "handwerker neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "handwerker wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 34
+  },
+  {
+   "query": "hohlraumtrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "händler trocknungsservice",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "kelleraußenwand abdichten neuss",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "komplettsanierung aus einer hand",
+   "clicks": 0,
+   "impressions": 28,
+   "ctr": 0,
+   "position": 66.21
+  },
+  {
+   "query": "kosten bautrocknung wasserschaden tirol",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "kosten trocknungsgeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "query": "leckage firma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "leckageortung",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 18
+  },
+  {
+   "query": "leckageortung dreieich",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 21
+  },
+  {
+   "query": "leckageortung duisburg",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 38.5
+  },
+  {
+   "query": "leckageortung düsseldorf",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 19.2
+  },
+  {
+   "query": "leckageortung in der nähe",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 12.5
+  },
+  {
+   "query": "leckageortung kastellaun",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 35.75
+  },
+  {
+   "query": "leckageortung köln",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 13.8
+  },
+  {
+   "query": "leckageortung rheinböllen",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 24.33
+  },
+  {
+   "query": "leckortung",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 9.83
+  },
+  {
+   "query": "leckortung aachen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 26
+  },
+  {
+   "query": "leckortung duisburg",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "leckortung düsseldorf",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 18.75
+  },
+  {
+   "query": "leckortung erftstadt",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 6.25
+  },
+  {
+   "query": "leckortung erlangen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "leckortung friedrichshafen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "query": "leckortung günstig",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 12
+  },
+  {
+   "query": "leckortung in der nähe",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 13.89
+  },
+  {
+   "query": "leckortung ingelheim",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 25
+  },
+  {
+   "query": "leckortung kastellaun",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 20.14
+  },
+  {
+   "query": "leckortung kosten versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 66
+  },
+  {
+   "query": "leckortung köln",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 7.5
+  },
+  {
+   "query": "leckortung nrw",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "query": "leckortung rheinböllen",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 12.17
+  },
+  {
+   "query": "leckortung versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 79
+  },
+  {
+   "query": "leckortung wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "leckortung zahlt versicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "leckortungsfirma",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "leckortungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "leckortungsfirma wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "renovierung aus einer hand",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "renovierung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 55.89
+  },
+  {
+   "query": "röthke moers",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "sanierung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8.5
+  },
+  {
+   "query": "sanierung alles aus einer hand",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 85.5
+  },
+  {
+   "query": "sanierung aus einer hand",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 53.5
+  },
+  {
+   "query": "sanierung feuchtigkeitsschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 21
+  },
+  {
+   "query": "sanierung nach wasserschaden neunkirchen",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 80.82
+  },
+  {
+   "query": "schadensanierung aus einer hand",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 17
+  },
+  {
+   "query": "schimmel unter estrich erkennen",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 13.25
+  },
+  {
+   "query": "schimmelsanierung neuss",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "query": "trockenbau mettmann",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "trockenlegung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "trockner für wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "trockner wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "trocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 9.5
+  },
+  {
+   "query": "trocknung dinslaken",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "query": "trocknung düsseldorf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 29
+  },
+  {
+   "query": "trocknung kastellaun",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "query": "trocknung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "trocknung nach wasserschaden kosten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 53
+  },
+  {
+   "query": "trocknung rheinböllen",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 85.17
+  },
+  {
+   "query": "trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 12
+  },
+  {
+   "query": "trocknungsfirma",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 50.57
+  },
+  {
+   "query": "trocknungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 30.4
+  },
+  {
+   "query": "trocknungsfirma stuttgart",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "trocknungsgerät wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "trocknungsgeräte mieten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "trocknungsgeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "trocknungsservice",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36.5
+  },
+  {
+   "query": "trocknungsventilator wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "wand trocknen ventilator",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 29
+  },
+  {
+   "query": "was passiert, wenn ein rohr in der wand bricht und das ganze haus unter wasser steht? welche tarife decken solche teuren leitungswasserschäden am zuverlässigsten ab?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "query": "was zahlt versicherung bei wasserschaden im bad",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "query": "wasser unter dem estrich",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "wasser unter estrich",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "wasser unter estrich erkennen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 9.67
+  },
+  {
+   "query": "wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 11.5
+  },
+  {
+   "query": "wasserschaden beheben firma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "wasserschaden estrich",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "wasserschaden handwerker",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "wasserschaden kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "query": "wasserschaden kosten trocknung",
+   "clicks": 0,
+   "impressions": 17,
+   "ctr": 0,
+   "position": 47.88
+  },
+  {
+   "query": "wasserschaden leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "wasserschaden mietwohnung wer zahlt renovierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "query": "wasserschaden neuss",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "query": "wasserschaden orten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 96
+  },
+  {
+   "query": "wasserschaden renovierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 60
+  },
+  {
+   "query": "wasserschaden sanierung kosten",
+   "clicks": 0,
+   "impressions": 34,
+   "ctr": 0,
+   "position": 54.18
+  },
+  {
+   "query": "wasserschaden sanierungsfirma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "query": "wasserschaden sanierungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "wasserschaden service herkenrath",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "query": "wasserschaden trocknung in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "query": "wasserschaden trocknung kosten",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 49.25
+  },
+  {
+   "query": "wasserschaden trocknungsfirma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "query": "wasserschaden welche versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "wasserschaden zwischen bodenplatte und estrich",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "query": "wasserschadenbehebung neuss",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 12.6
+  },
+  {
+   "query": "wasserschadenbeseitigung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "wasserschadenbeseitigung leverkusen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 58
+  },
+  {
+   "query": "wasserschadensanierung erftstadt",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 15.67
+  },
+  {
+   "query": "wasserschadensanierung langenfeld",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 29
+  },
+  {
+   "query": "wasserschadensanierung neuss",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 2.67
+  },
+  {
+   "query": "wasserschadensanierung rheinböllen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 59.5
+  },
+  {
+   "query": "wasserschadensanierung rodgau",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "wasserschadensanierung weilerswist",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "wasserschäden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "wasserschäden an gebäuden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "query": "wer zahlt malerarbeiten nach wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 8.75
+  },
+  {
+   "query": "wer zahlt sanierung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 53.5
+  },
+  {
+   "query": "wie lange dauert es bis ein wasserschaden sichtbar ist",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "wiederherstellung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 26.33
+  },
+  {
+   "query": "wo finde ich zuverlässige unternehmen, die bau- und gebäudetrocknung bei akuten wasserschäden anbieten und direkt mit versicherungen abrechnen?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 64
+  },
+  {
+   "query": "zahlt versicherung leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  }
+ ],
+ "page_query": [
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "query": "estrichdämmschichttrocknung",
+   "clicks": 1,
+   "impressions": 8,
+   "ctr": 0.125,
+   "position": 7.88
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckortungsfirma",
+   "clicks": 1,
+   "impressions": 7,
+   "ctr": 0.1429,
+   "position": 3.57
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "bautrocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "bautrocknung krefeld",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 64
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "bautrocknung leverkusen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "bautrocknung limburg",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 46.38
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "bautrocknung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "entkalkungsservice neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "frank handwerksservice gmbh",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 7.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "gebäudetrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "handwerker neuss",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 47.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "leckageortung in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "schimmel neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "schimmelsanierung neuss",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "schornsteinsanierung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "teppichreinigung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "trockenbau neuss",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "trocknung bergisch gladbach",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 67.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "trocknung düsseldorf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 33.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "trocknung rheinböllen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "trocknungsfirma",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 75.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "trocknungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "wasserschaden neuss",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "wasserschaden service herkenrath",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 67.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "wasserschadenbeseitigung leverkusen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 54.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/",
+   "query": "wasserschadensanierung neuss",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 2.75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bautrocknung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bautrocknung brühl",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 64.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bautrocknung duisburg",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 71
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bautrocknung kastellaun",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 83.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bautrocknung rheinböllen",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 86.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bautrocknung simmern",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "bauwerkstrocknung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/bautrocknung/",
+   "query": "gebäudetrocknung",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 69.22
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/blog/",
+   "query": "dämmschichttrocknung",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 96.75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/blog/",
+   "query": "leckortung kosten",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 28.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/blog/",
+   "query": "trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/erftstadt/",
+   "query": "bautrocknung erftstadt",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/erftstadt/",
+   "query": "leckortung erftstadt",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 7.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/erftstadt/",
+   "query": "wasserschadensanierung erftstadt",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 15.75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "query": "dämmschichttrocknung",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 63.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "query": "dämmschichttrocknung selber machen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "query": "estrich dämmschicht",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "query": "estrich dämmschicht trocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/estrichdaemmschichttrocknung-ablauf-dauer-kosten/",
+   "query": "estrichaustrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 37
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "bauleistungsversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 18
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "gebaeudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "gebäudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 71.71
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "leckortung zahlt versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "versicherung wasserschaden sanierung ablauf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 90
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "was zahlt die gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 87
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "was zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "was zahlt versicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 94
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "wasserschaden gebäudeversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 76.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "wasserschaden versicherung entschädigung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "wasserschaden wer zahlt",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 88.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "wasserschaden wohngebäudeversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 95
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "wasserschäden an gebäuden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "wer zahlt sanierung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "zahlt die gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 84
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/gebaeudeversicherung-bei-wasserschaden-wer-zahlt-was/",
+   "query": "zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "axa hausratversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 62
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "entschädigung bei wasserschaden im eigenheim",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "gebäudeversicherung leitungswasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "gebäudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 92.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "gefrierschrank defekt hausratversicherung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 46.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "hausrat wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 62
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "hausratversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "hausratversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 64.4
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "hausratversicherung wasserschaden mietwohnung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 64
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "hausratversicherung wasserschäden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 66
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "hausversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "leckortung zahlt versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "leitungswasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "leitungswasserschaden versicherung zahlt nicht",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 73
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "leitungswasserschaden wohngebäudeversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 87
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "rohrverstopfung hausratversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "versicherung leitungswasser",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 96
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "versicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 86
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "versicherung wasserschaden sanierung ablauf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 74.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "warmwasserspeicher undicht versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "was zahlt die gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "was zahlt die hausratversicherung bei wasserschaden?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "was zahlt die versicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 65
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "was zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "was zahlt versicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 75.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "was zahlt versicherung bei wasserschaden im bad",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 79
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschade versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden haftpflicht",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 90.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden haftpflicht oder hausrat",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden haftpflichtversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden haus versicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 89.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden im haus versicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 90
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden im haus welche versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden laminat hausratversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 67.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden laminat wieviel zahlt versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden mietwohnung keine hausratversicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 74
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden versicherung",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 77.14
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden versicherung haus",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden versicherung was wird zahlt",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 72.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden was zahlt die versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden was zahlt versicherung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden welche versicherung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 80.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden wer zahlt",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 73.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschaden wohngebäudeversicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wasserschäden versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 82
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "welche probleme treten bei hausrat- oder gebäudeschäden häufig auf?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wer zahlt wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wie dokumentiere ich einen leitungswasserschaden korrekt?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wohngebäudeversicherung leitungswasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "wohngebäudeversicherung wasserschaden",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 87.25
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "zahlt die gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 68
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/hausratversicherung-wasserschaden-was-zahlt-sie/",
+   "query": "zahlt gebäudeversicherung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 66
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/impressum/",
+   "query": "frank handwerksservice gmbh",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 5.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/impressum/",
+   "query": "handwerker neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/krefeld/",
+   "query": "bautrocknung krefeld",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/krefeld/",
+   "query": "handwerksteam",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-heinsberg/",
+   "query": "leckortung kappeln",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-heinsberg/",
+   "query": "leckortungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-heinsberg/",
+   "query": "luftdichtigkeitsprüfung geilenkirchen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-heinsberg/",
+   "query": "trockenbau heinsberg",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "leckortung in meiner nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 12
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "tankreinigung kreis mettmann",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "trockenbau mettmann",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "trocknung für kommunen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "trocknungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 36.75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "wasserschadensanierung in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 79
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/kreis-mettmann/",
+   "query": "wasserschadensanierung langenfeld",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "dokumentenrettung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "kosten für leckortung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "kosten leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "kosten leckortung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckageortung kosten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 85.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckorter kosten",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 63
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung kosten",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung pool kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung preis",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 59
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung preise",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung wasserleitung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 61
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung wasserschaden kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortung zahlt versicherung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 31.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "leckortungsfirma kosten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "pool leckortung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "preise leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "was kostet eine leckortung",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 54.2
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung-kosten-wer-zahlt/",
+   "query": "was kostet leckortung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckage firma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung castrop-rauxel",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 18.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung dreieich",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 19.8
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung duisburg",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 27.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung düsseldorf",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 16.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung firma",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 29
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung kastellaun",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 35
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung nrw",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 27
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckageortung rheinböllen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 18.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckorter in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung bruchköbel",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 14
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung duisburg",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 20.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung düsseldorf",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 12.83
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung emmerich",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung erlangen",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung firma",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung kastellaun",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung köln",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung mönchengladbach",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung nrw",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 18
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung rheinböllen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "leckortung wasserschaden düsseldorf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "rohrbruch lokalisieren lassen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/leckortung/",
+   "query": "trocknung bergisch gladbach",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 25.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "query": "leckageortung düsseldorf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 19.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "query": "leckageortung in der nähe",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "query": "leckortung düsseldorf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 14.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "query": "leckortung in der nähe",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "query": "leckortung köln",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/rommerskirchen/",
+   "query": "leckortungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/schwalmtal/",
+   "query": "kanalsanierung schwalmtal",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/schwalmtal/",
+   "query": "schimmel entfernen schwalmtal",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 22
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/schwalmtal/",
+   "query": "schimmelsanierung schwalmtal",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/schwalmtal/",
+   "query": "trocknungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-sanierung-aus-einer-hand-vom-leck-bis-zum-neuen-anstrich/",
+   "query": "komplettsanierung aus einer hand",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-unter-dem-estrich/",
+   "query": "wasserschaden estrich",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "ablauf einer wassersschadensanierung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 18.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "beseitigung von wasserschäden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "leckage wasser",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 13.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "leckortung bei wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "leckortung wasserschaden vorgehensweise",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 35
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "rohrbruch was tun",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "schadensanierung sofortmaßnahmen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "trockenlegung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "trocknung nach rohrbruch",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 5.2
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 21
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "was sollte ich sofort tun, wenn ich einen wasserschaden in der wohnung entdeckt habe?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "was tun bei wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "was tun bei wasserschaden im haus",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 38.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschaden",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 21.56
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschaden beheben",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschaden beseitigung",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 19.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschaden demontage",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 17
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschaden hilfe",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 26.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschaden was tun",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 22.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wasserschaden-was-tun-erste-schritte/",
+   "query": "wasserschadenbeseitigung",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 21
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "bautrocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "kleiner wasserschaden trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "kosten trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "kosten trocknungsgeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 58
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "kosten wasserschaden trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "leckortung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "professionelle trocknung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "trockenheld gmbh",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "trockenlegung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 58
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "trocknung von wasserschäden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 73
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "trocknung wasserschaden kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "trocknungsgeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wand feucht wer zahlt gutachten",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "was passiert, wenn ein rohr in der wand bricht und das ganze haus unter wasser steht? welche tarife decken solche teuren leitungswasserschäden am zuverlässigsten ab?",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 5.75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden an der decke wer zahlt",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 74
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden kosten für trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 53
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden kosten trocknung",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 45.36
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden trocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2.5
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden trocknung kosten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden welche versicherung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschaden wer zahlt renovierung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wasserschäden trocknen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wer zahlt die kosten für eine leckortung?",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-bautrocknung-nach-einem-wasserschaden/",
+   "query": "wer zahlt strom für trockengeräte wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wer-zahlt-die-sanierung-nach-einem-wasserschaden/",
+   "query": "renovierung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "boden verlegen nach wasserschaden saarland",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 86.71
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "sanierung feuchtigkeitsschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 23
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "sanierung nach wasserschaden neunkirchen",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 81.25
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "wasserschaden neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "wasserschaden weilerswist",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "wasserschadensanierung neuss",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 32.67
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "wasserschadensanierung rheinböllen",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 52.33
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "water damage restoration near me",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "water damage restoration service",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 72
+  },
+  {
+   "page": "https://dein-trocknungsteam.de/wiederherstellung/",
+   "query": "wiederherstellung nach wasserschaden",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "abdichtung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "bautentrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "bautrockner",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "bautrocknung",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 3.86
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "bautrocknung neuss",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "bauwerkstrocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "brand und wasserschadensanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 26
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "brandschaden sanierung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "feuchtigkeitsschäden sanierung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2.5
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "gebäudesanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "gebäudetrocknung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 7.67
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "holzschutz und bautrocknung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckage firma in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckageortung",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 14.5
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckageortung firmen",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckageortung in der nähe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckortung",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 12.43
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckortung düsseldorf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 18
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckortung in meiner nähe",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckortung nrw",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "leckortungsfirma in der nähe",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "mauertrockenlegung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "mauertrockenlegung bautrocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "mauerwerk trocknung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "sanierungsberatung neuss",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "trocknung",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "trocknung wasserschaden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "trocknungsgeräte",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 15
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "trocknungsgeräte mieten",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 3.67
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden dormagen",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden korschenbroich",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden leckortung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden neuss",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 1.14
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden notdienst",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden ortungsdienst",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden reparatur",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 31
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschaden sanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschadenbeseitigung",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschadensanierung",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschadensanierung neuss",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://www.dein-trocknungsteam.de/",
+   "query": "wasserschäden",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  }
+ ],
+ "devices": [
+  {
+   "device": "DESKTOP",
+   "clicks": 5,
+   "impressions": 655,
+   "ctr": 0.0076,
+   "position": 24.72
+  },
+  {
+   "device": "MOBILE",
+   "clicks": 5,
+   "impressions": 595,
+   "ctr": 0.0084,
+   "position": 20.91
+  },
+  {
+   "device": "TABLET",
+   "clicks": 0,
+   "impressions": 16,
+   "ctr": 0,
+   "position": 33.06
+  }
+ ]
+}
